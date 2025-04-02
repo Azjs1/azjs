@@ -1,0 +1,11 @@
+{
+    "xgb": 0.26,
+    "lstm": 0.24,
+    "rl": 0.2,
+    "sentiment": 0.1,
+    "liquidity": 0.1,
+    "technical": 0.1,
+	"gpt_weight": 1.0,
+"use_gpt": true
+
+}
